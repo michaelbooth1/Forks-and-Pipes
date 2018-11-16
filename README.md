@@ -1,0 +1,1 @@
+The goal of this assignment was to gain knowledge working with forks, pipes and executing commands inside a C shell. We were provided with skeleton code and tasked with creating the execute_commands function inside of shell.c. 
